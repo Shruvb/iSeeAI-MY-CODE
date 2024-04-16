@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Blockchain",
+      "description": "A blockchain explorer allows users to explore and navigate blockchain networks.",
+      "category": "Blockchain"
+    },
+    {
+      "id": 2,
+      "name": "Metaverse",
+      "description": "A metaverse platform provides a virtual environment where users can interact, create, and transact.",
+      "category": "Metaverse"
+    },
+    {
+      "id": 3,
+      "name": "Decentralized",
+      "description": "Decentralized gaming platforms leverage blockchain technology to enable fair and transparent gaming experiences.",
+      "category": "Games"
+    },
+    {
+      "id": 4,
+      "name": "NFT Marketplace",
+      "description": "An NFT marketplace allows users to buy, sell, and trade non-fungible tokens (NFTs).",
+      "category": "Blockchain"
+    },
+    {
+      "id": 5,
+      "name": "Virtual Reality Games",
+      "description": "Virtual reality games provide immersive gaming experiences using VR technology.",
+      "category": "Games"
+    },
+    {
+        "'id":6,
+        "name":"shraddha",
+        "description":"good girl",
+        "category":"Blockchain"
+    }
+  ]
+  

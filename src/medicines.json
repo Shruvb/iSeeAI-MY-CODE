@@ -1,0 +1,424 @@
+{
+  "medicines": [
+    {
+      "id": 1,
+      "name": "Abilify",
+      "description": "Abilify, generic name aripiprazole, is an antipsychotic medication used to treat conditions such as schizophrenia, bipolar disorder, and major depressive disorder. It works by affecting certain neurotransmitters in the brain to help stabilize mood, reduce hallucinations, and improve overall mental well-being.",
+      "image_link": "https://vinmec-prod.s3.amazonaws.com/images/20220414_012149_386258_Abilify.max-1800x1800.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Abilify Maintena",
+      "description": "Abilify Maintena is a long-acting injectable form of aripiprazole, an antipsychotic medication. It is primarily used to manage schizophrenia by providing sustained release of the drug over an extended period, helping to maintain therapeutic levels and improve treatment adherence in individuals with this mental health condition.",
+      "image_link": "https://www.empr.com/wp-content/uploads/sites/7/2018/12/75554f1c4cae440fa004a5adffaa6cfd-abilify_mainten.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Abiraterone",
+      "description": "Abiraterone is a medication used in the treatment of advanced prostate cancer. It inhibits the production of androgens (male hormones) in the body, particularly within the tumor cells and the adrenal glands, helping to slow down the progression of prostate cancer.",
+      "image_link": "https://galaxysuperspeciality.com/wp-content/uploads/2019/12/whatsapp_image_2020-03-27_at_10.06.58_am_1_.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Acetaminophen",
+      "description": "Acetaminophen, commonly known as Tylenol, is a widely used over-the-counter pain reliever and fever reducer. It is effective in managing mild to moderate pain and is often used for conditions such as headaches, muscle aches, and fever. However, it does not possess anti-inflammatory properties like some other pain relievers such as ibuprofen.",
+      "image_link": "https://5.imimg.com/data5/SELLER/Default/2022/9/II/HF/VH/138010954/10-2-500x500.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Acetazolamide",
+      "description": "Acetazolamide is a medication primarily used to treat glaucoma by reducing intraocular pressure. It is also employed to manage certain types of seizures, altitude sickness, and fluid retention in conditions such as congestive heart failure.",
+      "image_link": "https://welzo.com/cdn/shop/articles/acetazolamide-a-comprehensive-guide-on-uses-side-effects-and-more-welzo_17703439-a1c7-4635-83b4-a94aa4955976.jpg?v=1710941727"
+    },
+    {
+      "id": 6,
+      "name": "Acetylcysteine",
+      "description": "Acetylcysteine is a medication used to treat acetaminophen (paracetamol) overdose by replenishing glutathione levels in the liver, which helps prevent or mitigate liver damage. Additionally, it is employed as a mucolytic agent to assist in the management of respiratory conditions by thinning and loosening mucus in the airways.",
+      "image_link": "https://5.imimg.com/data5/SELLER/Default/2021/8/RJ/IU/UB/59991453/acetylcysteine-600-mg-effervescent-tablets.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Actemra",
+      "description": "Actemra, or tocilizumab, is a medication used to treat rheumatoid arthritis and certain other autoimmune conditions. It works by inhibiting the action of interleukin-6 (IL-6), a protein associated with inflammation. Actemra is often prescribed to help manage symptoms and improve joint function in patients with these conditions.",
+      "image_link": "https://assets.roche.com/f/169232/1024x681/77d3dbc95b/actemra.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Acyclovir",
+      "description": "Acyclovir is an antiviral medication commonly prescribed to treat infections caused by the herpes simplex virus, including genital herpes, cold sores, and shingles. It works by inhibiting the replication of the virus, helping to reduce the severity and duration of outbreaks.",
+      "image_link": "https://5.imimg.com/data5/SELLER/Default/2023/2/GJ/HO/KI/7810472/acyclovir-400-mg-tablets.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Adderall",
+      "description": "Adderall is a prescription medication containing amphetamine and dextroamphetamine, commonly used to treat attention deficit hyperactivity disorder (ADHD). It works by affecting certain neurotransmitters in the brain to enhance focus, attention, and impulse control in individuals with ADHD.",
+      "image_link": "https://image.cnbcfm.com/api/v1/image/101763285-94819136.jpg?v=1693051202&w=1920&h=1080"
+    },
+    {
+      "id": 10,
+      "name": "Adderall XR",
+      "description": "Adderall XR is a prescription medication that combines amphetamine and dextroamphetamine to treat attention deficit hyperactivity disorder (ADHD). It works by increasing the levels of certain neurotransmitters in the brain, improving attention span, focus, and impulse control in individuals with ADHD.",
+      "image_link": "https://www.drugs.com/pro/images/aff45863-ffe1-4d4f-8acf-c7081512a6c0/adderall-xr-02.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Bacitracin",
+      "description": "Bacitracin is an antibiotic ointment used to prevent and treat bacterial skin infections. It works by stopping the growth of bacteria on the skin, helping wounds to heal faster and reducing the risk of infection. It's commonly applied to minor cuts, scrapes, and burns after cleaning the affected area.",
+      "image_link": "https://img.medscapestatic.com/pi/features/drugdirectory/octupdate/ALT00260.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Baclofen",
+      "description": "Baclofen is a medication commonly used to treat muscle spasms and stiffness caused by conditions like multiple sclerosis or spinal cord injuries. It works by acting on the nerves in the spinal cord to relax muscles, helping to alleviate discomfort and improve movement.",
+      "image_link": "https://5.imimg.com/data5/SELLER/Default/2022/6/GU/YD/FP/145721172/baclofen-tablets-ip.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Bactrim",
+      "description": "Bactrim is a medication that combines two antibiotics, sulfamethoxazole and trimethoprim, to treat various bacterial infections like urinary tract infections, ear infections, and bronchitis. It works by stopping the growth of bacteria, helping the body fight off the infection. It's commonly prescribed and usually taken orally.",
+      "image_link": "https://www.teriak.com/En/image_resize.php?img=upload%2F1590575043.png"
+    },
+    {
+      "id": 14,
+      "name": "Bactroban",
+      "description": "Bactroban is a medicine used to treat skin infections caused by bacteria, such as impetigo. It works by stopping the growth of bacteria on the skin. It is commonly applied directly to the affected area as a cream or ointment.",
+      "image_link": "https://5.imimg.com/data5/SELLER/Default/2023/7/325488326/FN/MS/XO/5173628/bactroban-5-gm-ointment.jpeg"
+    },
+    {
+      "id": 15,
+      "name": "Balsalazide",
+      "description": "Balsalazide is a medication used to treat inflammatory bowel diseases like ulcerative colitis. It works by reducing inflammation in the colon, helping to relieve symptoms such as diarrhea, abdominal pain, and rectal bleeding.",
+      "image_link": "https://i0.wp.com/www.gnhindia.com/wp-content/uploads/2020/06/setid9db29007-40aa-e3f4-22e4-f8749756a11enameScreenShot2016-06-30at9.23.32AM.jpg?fit=500%2C243&ssl=1"
+    },
+    {
+      "id": 16,
+      "name": "Banzel",
+      "description": "Banzel is a medication used to treat seizures in people with epilepsy. It works by calming down abnormal electrical activity in the brain that can lead to seizures. Banzel is often prescribed alongside other seizure medications to help control seizures better.",
+      "image_link": "https://www.drugs.com/pro/images/0a3fa925-1abd-458a-bd57-4ae780a1ef2d/banzel-0f.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Baqsimi",
+      "description": "Baqsimi is a medicine used to treat severe low blood sugar (hypoglycemia) in people with diabetes. It comes in the form of a nasal powder that is sprayed into the nose, providing a quick and easy way to raise blood sugar levels in emergency situations.",
+      "image_link": "https://media.post.rvohealth.io/2U4nNZEf7jt4s7fWZRWXPcYsXyz/2023/08/22/2UM5AvRqm0BbtqHAxlpip30C5Ps.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Basaglar",
+      "description": "Basaglar is a type of insulin used to treat diabetes. It helps control blood sugar levels by replacing the insulin your body is unable to produce. It's administered through injections and should be used as prescribed by your doctor to manage your diabetes effectively.",
+      "image_link": "https://5.imimg.com/data5/SELLER/Default/2021/6/EA/OK/RC/130587925/basaglar-insulin-glargine-injection.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Bavencio",
+      "description": "Bavencio is a medication used to treat certain types of cancer, like advanced skin cancer and bladder cancer. It works by helping the body's immune system fight against cancer cells.",
+      "image_link": "https://5.imimg.com/data5/SELLER/Default/2023/8/332631496/DC/XH/XL/89635395/bavencio-avelumab-injection.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Belbuca",
+      "description": "Belbuca is a prescription medicine used to manage severe pain that requires round-the-clock treatment. It comes in the form of a film that you place inside your cheek and let dissolve. Belbuca contains the active ingredient buprenorphine, which helps relieve pain by acting on certain receptors in the brain.",
+      "image_link": "https://img.medscapestatic.com/pi/features/drugdirectory/octupdate/BSI00260.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Cabenuva",
+      "description": "Cabenuva is a prescription medication used to treat HIV-1 infection in adults. It's given as a long-acting injection once a month after an initial dose period. Cabenuva contains two active ingredients, cabotegravir and rilpivirine, which work together to control the HIV virus and reduce the number of HIV cells in the body.",
+      "image_link": "https://media.post.rvohealth.io/2U4nNZEf7jt4s7fWZRWXPcYsXyz/2023/08/22/2UM89wTB9rVEfurgB1ZJJqMQErZ.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Cabometyx",
+      "description": "Cabometyx is a medication used to treat certain types of advanced kidney cancer and liver cancer. It works by slowing down the growth and spread of cancer cells in the body. Cabometyx is taken orally in tablet form and should be used under the guidance of a healthcare professional.",
+      "image_link": "https://cdn2.poz.com/63864_Cabometyx-cabozantinib-Exelisis-rect600.jpg_97d8d8b5-23e0-4bca-a0a3-abce36e48636.jpeg"
+    },
+    {
+      "id": 23,
+      "name": "Caplyta",
+      "description": "Caplyta is a prescription medication used to treat schizophrenia in adults. It works by affecting certain chemicals in the brain to help reduce symptoms like hallucinations, delusions, and disorganized thinking. It comes in tablet form and is taken by mouth once daily.",
+      "image_link": "https://www.drugs.com/pro/images/db730b06-6351-47fd-8183-e61e61bbead5/caplyta-9.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Cefdinir",
+      "description": "Cefdinir is an antibiotic medication commonly prescribed to treat bacterial infections such as bronchitis, pneumonia, and certain skin infections. It works by stopping the growth of bacteria, helping your body fight off the infection. Cefdinir is usually taken orally in the form of capsules or liquid suspension.",
+      "image_link": "https://5.imimg.com/data5/EE/DH/ZT/SELLER-14929812/cefdinir-300mg-capsule-500x500.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Decadron",
+      "description": "Decadron is a medication that contains the active ingredient dexamethasone, which belongs to a class of drugs called corticosteroids. It is commonly used to reduce inflammation and treat conditions like allergic reactions, asthma, arthritis, and certain types of cancer. Decadron works by suppressing the immune system and reducing swelling, pain, and redness.",
+      "image_link": "https://www.gnhindia.com/wp-content/uploads/2021/01/setid37a5bdfd-67ab-4ea3-862b-35ac30dfd7f4namedex0h-0000-02.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Descovy",
+      "description": "Descovy is a prescription medicine used to treat HIV-1 infection in people who are at risk of getting HIV-1. It contains two active ingredients: emtricitabine and tenofovir alafenamide. These ingredients work together to help lower the amount of HIV-1 in the blood and increase the number of CD4 cells, which help fight infection.",
+      "image_link": "https://mimsshst.blob.core.windows.net/drug-resources/TH/packshot/Descovy6001PPS0.JPG"
+    },
+    {
+      "id": 27,
+      "name": "Detrol",
+      "description": "Detrol is a prescription medication used to treat overactive bladder, which can cause symptoms like frequent urination, urgency, and incontinence. It works by relaxing the muscles in the bladder, helping to control these symptoms and improve bladder function. Detrol is typically taken once or twice a day as directed by a healthcare provider.",
+      "image_link": "https://www.drugs.com/pro/images/42f819c9-4108-4ca7-92c5-a213037dd4db/detrol-03.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Diacomit",
+      "description": "Diacomit is a prescription medication primarily used to treat a rare type of epilepsy called Dravet syndrome, which typically starts in infancy or early childhood. It helps reduce the frequency and severity of seizures by regulating electrical activity in the brain. Diacomit is usually prescribed alongside other seizure medications as part of a comprehensive treatment plan.",
+      "image_link": "https://www.drugs.com/pro/images/58304ba8-9779-4658-811e-94ffe08c3f16/cap-label2.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Eligard",
+      "description": "Eligard is a medication prescribed to treat advanced prostate cancer. It works by reducing the production of testosterone, a hormone that fuels prostate cancer growth. Eligard is given as an injection under the skin, usually once a month or once every three to six months, depending on your doctor's recommendation.",
+      "image_link": "https://img.medscapestatic.com/pi/features/drugdirectory/octupdate/00207632.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Entyvio",
+      "description": "Entyvio is a medication used to treat certain types of inflammatory bowel diseases like ulcerative colitis and Crohn's disease. It works by targeting specific parts of the immune system to reduce inflammation in the intestines. Entyvio is usually given as an infusion through a vein in the arm by a healthcare professional.",
+      "image_link": "https://5.imimg.com/data5/SELLER/Default/2023/12/366980874/FT/TC/WZ/38736910/entyvio-vedolizumab-300mg-injection-500x500.png"
+    },
+    {
+      "id": 31,
+      "name": "Felodipine",
+      "description": "Felodipine is a medication prescribed to treat high blood pressure (hypertension). It belongs to a class of drugs called calcium channel blockers, which work by relaxing and widening blood vessels, making it easier for the heart to pump blood. This helps lower blood pressure and reduce the workload on the heart.",
+      "image_link": "https://mimsshst.blob.core.windows.net/drug-resources/PH/packshot/Felodipin-Natrapharm6001PPS0.JPG"
+    },
+    {
+      "id": 32,
+      "name": "FeroSul",
+      "description": "FeroSul is a medication commonly used to treat iron deficiency anemia, a condition where your body doesn't have enough iron to make red blood cells. It contains iron, which is an essential mineral for the body to produce hemoglobin and carry oxygen to cells. FeroSul is typically taken orally and comes in various forms like tablets or liquid, often prescribed by healthcare providers to replenish iron levels in the body.",
+      "image_link": "https://images-cdn.ubuy.co.in/63dc7f074e1dd50ab3097d12-major-ferosul-ferrous-sulfate-tablets.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Femara",
+      "description": "Femara is a medication prescribed to treat certain types of breast cancer in postmenopausal women. It works by lowering estrogen levels in the body, which can slow or stop the growth of cancer cells. Femara is usually taken orally once a day, as directed by a doctor.",
+      "image_link": "https://5.imimg.com/data5/SELLER/Default/2023/5/306914359/DQ/IY/JY/72616798/femara-2-5-mg-tablets.webp"
+    },
+    {
+      "id": 34,
+      "name": "GaviLyte G",
+      "description": "GaviLyte G is a prescription medicine used to cleanse the bowel before medical procedures such as colonoscopies. It works by causing diarrhea to flush out the colon. GaviLyte G comes in powder form, which is dissolved in water and then consumed orally according to the doctor's instructions.",
+      "image_link": "https://www.drugs.com/pro/images/4b5254c5-4a61-4711-92b4-acc8e3137904/22a9a510-9fef-45af-a7f6-d77afa6cbfe4-04.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Ginkgo Biloba",
+      "description": "Ginkgo Biloba is a herbal supplement derived from the leaves of the Ginkgo tree. It's commonly used to improve memory, cognitive function, and blood circulation. Some people also take it to alleviate symptoms of conditions like anxiety and depression, though its effectiveness for these purposes varies.",
+      "image_link": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nrt/nrt17243/y/59.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Herceptin",
+      "description": "Herceptin is a medication used to treat certain types of breast cancer that have a specific protein called HER2. It works by targeting and blocking the HER2 protein, which can slow down or stop the growth of cancer cells. Herceptin is usually given through an intravenous (IV) infusion.",
+      "image_link": "https://i.cbc.ca/1.1962856.1381465026!/httpImage/image.jpg_gen/derivatives/16x9_780/li-herceptin-620-cprtr1e8g6.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Horizant",
+      "description": "Horizant is a prescription medication primarily used to treat restless legs syndrome (RLS) and nerve pain caused by shingles. It contains gabapentin enacarbil, which works by calming overactive nerves to reduce discomfort and improve sleep in people with these conditions.",
+      "image_link": "https://vinmec-prod.s3.amazonaws.com/images/20210403_075035_305358_thuoc-Horizant.max-1800x1800.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Hydrocodone",
+      "description": "Hydrocodone is a prescription pain medication used to treat moderate to severe pain. It works by changing how the brain and nervous system respond to pain. However, it can be habit-forming and should be taken exactly as prescribed by a doctor to minimize the risk of addiction.",
+      "image_link": "https://longislandinterventions.com/wp-content/uploads/2022/07/Hydrocodone-1030x687.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Hydroxyzine",
+      "description": "Hydroxyzine is a medication commonly prescribed to treat anxiety and relieve itching caused by allergic reactions. It works by blocking certain natural substances in the body that can cause symptoms like itching, anxiety, and tension. It comes in various forms, including tablets, capsules, and syrups, and is usually taken by mouth.",
+      "image_link": "https://5.imimg.com/data5/SELLER/Default/2021/2/SU/RS/AL/122759928/hydroxyzine-hydrochloride-10-mg.jpeg"
+    },
+    {
+      "id": 40,
+      "name": "Ibandronate",
+      "description": "Ibandronate is a medication used to treat osteoporosis, a condition where bones become weak and prone to fractures. It belongs to a group of drugs called bisphosphonates, which help to strengthen bones by slowing down bone loss. Ibandronate is typically taken as a tablet once a month or as directed by a healthcare provider.",
+      "image_link": "https://img.medscapestatic.com/pi/features/drugdirectory/octupdate/MYN05241.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Imatinib",
+      "description": "Imatinib is a medication used to treat certain types of cancer, like chronic myeloid leukemia (CML) and gastrointestinal stromal tumors (GIST). It works by blocking the action of abnormal proteins that promote cancer growth. Imatinib is usually taken orally in the form of a tablet.",
+      "image_link": "https://rexmedical.co.nz/wp-content/uploads/2020/12/Imatinib-100-and-400-Hero-Left.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Imodium",
+      "description": "Imodium is a medication used to treat diarrhea. It works by slowing down the movement of the intestines to decrease the number of bowel movements and make stools firmer. It's available over the counter and can provide relief from diarrhea symptoms.",
+      "image_link": "https://m.media-amazon.com/images/I/71NsOBCZeKL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Inderal",
+      "description": "Inderal is a prescription medication primarily used to treat high blood pressure (hypertension), chest pain (angina), and certain heart rhythm disorders. It belongs to a class of drugs called beta-blockers, which work by blocking the effects of adrenaline on the heart and blood vessels, thereby reducing heart rate and blood pressure.",
+      "image_link": "https://m.media-amazon.com/images/I/815R6u44pvL.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Ingrezza",
+      "description": "Ingrezza is a medication prescribed to treat adults with a condition called tardive dyskinesia, which causes uncontrollable movements, often of the face and body. It works by blocking a certain chemical in the brain that is involved in controlling movements, helping to reduce these involuntary movements.",
+      "image_link": "https://5.imimg.com/data5/SELLER/Default/2023/9/347311750/FU/AU/EP/190600334/f8538ddb845add9808af4e82f3df46d9447fe51b-1560x1080.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Invokana",
+      "description": "Invokana is a medication prescribed to help manage blood sugar levels in adults with type 2 diabetes. It works by helping the kidneys remove sugar from the body through urine. This can lower blood sugar levels and reduce the risk of certain diabetes-related complications when used alongside a healthy lifestyle.",
+      "image_link": "https://qtxasset.com/quartz/qcloud5/media/image/fiercepharma/1598544981/Invokana.jpg/Invokana.jpg?VersionId=BNuv1M7lGS8Ngmav0nCysBP0JtYOwKqH"
+    },
+    {
+      "id": 46,
+      "name": "Jatenzo",
+      "description": "Jatenzo is a prescription medication used to treat low testosterone levels in men. It comes in the form of capsules that you take by mouth. Jatenzo works by replacing the testosterone that the body is not making enough of, helping to restore hormonal balance and improve symptoms associated with low testosterone.",
+      "image_link": "https://www.gnhindia.com/wp-content/uploads/2021/04/setided7b5d41-7475-4c10-99b9-b62b3434ae60nameClarus158mg-1.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Jornay PM",
+      "description": "Jornay PM is a medication prescribed to treat Attention-Deficit/Hyperactivity Disorder (ADHD) in children and adolescents. It's a once-daily extended-release capsule taken in the evening. Jornay PM works gradually through the night to help manage ADHD symptoms during waking hours.",
+      "image_link": "https://mms.businesswire.com/media/20190611005643/en/728266/5/Bottles_60mg.jpg"
+    },
+    {
+      "id": 48,
+      "name": "Ketalar",
+      "description": "Ketalar is a medication primarily used as an anesthetic during surgeries or medical procedures. It belongs to a class of drugs called general anesthetics and works by slowing down brain activity to induce unconsciousness. Ketalar is administered by injection and is typically used under medical supervision in controlled settings.",
+      "image_link": "https://imgcdn.mckesson.com/CumulusWeb/Images/Original_Image/494158_front.jpg"
+    },
+    {
+      "id": 49,
+      "name": "Krazati",
+      "description": "KRAZATI is a prescription medicine used to treat adults with non-small cell lung cancer (NSCLC):that has spread to other parts of the body or cannot be removed by surgery, and whose tumor has an abnormal KRAS G12C gene, and who have received at least one prior treatment for their cancer.",
+      "image_link": "https://5.imimg.com/data5/SELLER/Default/2023/5/306131377/FP/NB/NA/187966694/krazati-tablet.png"
+    },
+    {
+      "id": 50,
+      "name": "Labetalol",
+      "description": "Labetalol is a medication used to treat high blood pressure (hypertension). It works by relaxing blood vessels and slowing the heart rate, making it easier for the heart to pump blood. This helps lower blood pressure and reduce the workload on the heart.",
+      "image_link": "https://5.imimg.com/data5/SELLER/Default/2022/2/YB/AT/PH/20593508/labecanol-inj-500x500.jpg"
+    },
+    {
+      "id": 51,
+      "name": "Lorlatinib",
+      "description": "Lorlatinib is a medication prescribed to treat certain types of lung cancer, specifically non-small cell lung cancer (NSCLC) that has spread to other parts of the body. It works by blocking specific proteins that help cancer cells grow and spread. Lorlatinib is typically used when other treatments have not been effective or when the cancer has progressed despite other therapies.",
+      "image_link": "https://assets.mrmed.in/product-images/product-images-1658112224647-267868592-LORBRIQUA%20100MG%20TABLET_102639_1.jpg"
+    },
+    {
+      "id": 52,
+      "name": "Lovastatin",
+      "description": "Lovastatin is a medication used to lower cholesterol levels in the blood. It belongs to a class of drugs called statins. By blocking an enzyme in the liver, lovastatin helps reduce the production of cholesterol and thus lowers the risk of heart disease.",
+      "image_link": "https://5.imimg.com/data5/SELLER/Default/2023/11/359725294/SL/MA/HJ/6276597/lovastatin-tablet-20mg.jpg"
+    },
+    {
+      "id": 53,
+      "name": "Lurasidone",
+      "description": "Lurasidone is a medication prescribed to treat schizophrenia and bipolar depression in adults. It works by helping to restore the balance of certain natural substances in the brain. It's usually taken by mouth with food to help absorption and reduce side effects.",
+      "image_link": "https://5.imimg.com/data5/SELLER/Default/2023/11/359916750/CJ/MC/VK/27522047/lurasidone-hydrochloride-tablet-lurasid-40.jpg"
+    },
+    {
+      "id": 54,
+      "name": "Macrobid",
+      "description": "Macrobid is a prescription antibiotic used to treat urinary tract infections (UTIs). It works by killing bacteria in the urinary tract, helping to clear up the infection. It's important to take the full course of Macrobid as prescribed by your doctor to ensure the infection is completely treated.",
+      "image_link": "https://5.imimg.com/data5/BP/JH/MY-40230056/macrobid.jpg"
+    },
+    {
+      "id": 55,
+      "name": "Mavenclad",
+      "description": "Mavenclad is a medication used to treat relapsing forms of multiple sclerosis (MS). It works by targeting certain immune cells to help reduce inflammation in the central nervous system. Mavenclad is taken orally in a series of treatment courses, with breaks in between.",
+      "image_link": "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/22/2019/07/1l-Image-Mavenclad.jpg"
+    },
+    {
+      "id": 56,
+      "name": "Mavyret",
+      "description": "Mavyret is a prescription medication used to treat chronic hepatitis C virus (HCV) infection in adults. It's taken as a once-daily pill for a specified duration as directed by a healthcare provider. Mavyret works by stopping the virus from multiplying in the body, helping to cure the infection.",
+      "image_link": "https://5.imimg.com/data5/SELLER/Default/2022/10/CF/ZX/CX/161804910/mavyret-glecaprevir-and-pibrentasvir-drug.jpg"
+    },
+    {
+      "id": 57,
+      "name": "Medrol",
+      "description": "Medrol is a medication that contains the active ingredient methylprednisolone, which belongs to a group of medicines called corticosteroids. It is used to treat a variety of conditions such as inflammation, allergic reactions, and autoimmune disorders by reducing swelling, pain, and allergic reactions in the body.",
+      "image_link": "https://vinmec-prod.s3.amazonaws.com/images/20220326_081250_786981_medrol-la-thuoc-gi.max-1800x1800.jpg"
+    },
+    {
+      "id": 58,
+      "name": "Melatonin",
+      "description": "Melatonin is a hormone that your body naturally produces to regulate sleep-wake cycles. It's commonly used as a supplement to help with sleep problems, such as insomnia or jet lag. Taking melatonin supplements can help signal to your body that it's time to sleep.",
+      "image_link": "https://m.media-amazon.com/images/I/712ZgHasrcL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 59,
+      "name": "Meropenem",
+      "description": "Meropenem is an antibiotic medication used to treat serious bacterial infections, such as pneumonia and urinary tract infections. It works by stopping the growth of bacteria, helping the body to fight off the infection. It's usually given as an injection into a vein by a healthcare professional.",
+      "image_link": "https://5.imimg.com/data5/SELLER/Default/2022/3/AL/OC/HB/59017406/meropenem-250-mg.JPG"
+    },
+    {
+      "id": 60,
+      "name": "Methimazole",
+      "description": "Methimazole is a medication used to treat an overactive thyroid gland, also known as hyperthyroidism. It works by reducing the production of thyroid hormones in the body. This helps to alleviate symptoms such as rapid heartbeat, weight loss, and nervousness associated with hyperthyroidism.",
+      "image_link": "https://5.imimg.com/data5/ZK/YE/ZJ/SELLER-7047793/methimazole-tablet.jpg"
+    },
+    {
+      "id": 61,
+      "name": "Misoprostol",
+      "description": "Misoprostol is a medication used to prevent stomach ulcers in people who take nonsteroidal anti-inflammatory drugs (NSAIDs) like ibuprofen or aspirin. It works by reducing the production of stomach acid and protecting the stomach lining. Misoprostol is also used in combination with other medications to induce abortion or to help induce labor.",
+      "image_link": "https://5.imimg.com/data5/SELLER/Default/2022/10/UX/EA/OJ/82882300/misoprostol-200-mcg-tablet.png"
+    },
+    {
+      "id": 62,
+      "name": "Methadone",
+      "description": "Methadone is a medication primarily used to treat opioid addiction and manage severe pain. It works by changing how the brain and nervous system respond to pain. Methadone is often given as a liquid or tablet and should be taken exactly as prescribed by a healthcare professional.",
+      "image_link": "https://dev.rosemontpharma.com/wp-content/uploads/2023/09/Methadone.png"
+    },
+    {
+      "id": 63,
+      "name": "Methotrexate",
+      "description": "Methotrexate is a medication used to treat various conditions such as cancer, rheumatoid arthritis, and psoriasis. It works by slowing down the growth of certain cells in the body, including cancer cells and those causing inflammation in conditions like arthritis and psoriasis. It is usually taken as a pill or injection under medical supervision.",
+      "image_link": "https://5.imimg.com/data5/ANDROID/Default/2023/1/ON/VK/SA/82882300/product-jpeg.jpg"
+    },
+    {
+      "id": 64,
+      "name": "Metoclopramide",
+      "description": "Metoclopramide is a medication commonly used to treat nausea and vomiting, especially related to chemotherapy or surgery. It works by speeding up the movement of the stomach and intestines to help food move more easily through the digestive system. It can also be prescribed for certain stomach problems like gastroparesis.",
+      "image_link": "https://5.imimg.com/data5/SELLER/Default/2022/9/DK/GE/QI/74432886/vomirus-inj.jpg"
+    },
+    {
+      "id": 65,
+      "name": "Naltrexone",
+      "description": "Naltrexone is a medication used to treat alcohol and opioid dependence. It works by blocking the effects of opioids in the brain, which can help reduce cravings and prevent relapse. It's available in pill form or as a long-acting injection.",
+      "image_link": "https://5.imimg.com/data5/SELLER/Default/2023/5/306967718/LA/CN/AG/73935541/naltrexone.jpg"
+    },
+    {
+      "id": 66,
+      "name": "Nasacort",
+      "description": "Nasacort is a nasal spray medication used to treat symptoms of allergic rhinitis, like sneezing, congestion, and runny nose. It contains the active ingredient triamcinolone acetonide, which reduces inflammation in the nasal passages, providing relief from allergy symptoms. It's used regularly for effective long-term management of nasal allergies.",
+      "image_link": "https://images-cdn.ubuy.co.in/6559cdc9315ec64df01975ec-nasacort-allergy-24-hour-120-sprays.jpg"
+    },
+    {
+      "id": 67,
+      "name": "Neosporin",
+      "description": "Neosporin is an over-the-counter medication used to prevent infection in minor cuts, scrapes, and burns. It contains three active ingredients: bacitracin, neomycin, and polymyxin B. These ingredients work together to kill bacteria on the skin and promote healing.",
+      "image_link": "https://images.apollo247.in/pub/media/catalog/product/n/e/neo0020.jpg"
+    },
+    {
+      "id": 68,
+      "name": "Norco",
+      "description": "Norco is a prescription pain medication containing a combination of acetaminophen and hydrocodone. It's used to relieve moderate to severe pain. Hydrocodone is an opioid pain reliever, while acetaminophen increases the effectiveness of hydrocodone.",
+      "image_link": "https://www.midwoodaddictiontreatment.com/wp-content/uploads/2021/10/What-is-Norco.jpg"
+    },
+    {
+      "id": 69,
+      "name": "Otezla",
+      "description": "Otezla is a prescription medication used to treat certain types of psoriasis and psoriatic arthritis in adults. It works by reducing inflammation in the body, which helps improve symptoms like redness, scaling, and joint pain associated with these conditions. Otezla comes in the form of a pill that is taken by mouth.",
+      "image_link": "https://www.empr.com/wp-content/uploads/sites/7/2018/12/0f7fa7a518774c06bc64e2e3d307cd29-otezla_monograp.png"
+    },
+    {
+      "id": 70,
+      "name": "Oxybutynin",
+      "description": "Oxybutynin is a medication used to treat overactive bladder, which causes frequent urination and urgency. It works by relaxing the bladder muscles, reducing the need to urinate often and urgently. Oxybutynin comes in various forms like tablets, patches, and syrup, and it's taken as directed by a doctor.",
+      "image_link": "https://5.imimg.com/data5/SELLER/Default/2023/4/299047713/AB/PD/IY/140468184/oxybutynin-5mg-capsules.jpeg"
+    }
+  ]
+}
